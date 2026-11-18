@@ -40,5 +40,7 @@ Web-приложение книжного магазина с покупкой �
 ### 1. Клонировать репозиторий
 git clone https://github.com/Esfir-pixel/bookstore-practice.git
 cd bookstore-practice
-2. `npm install`
-3. Создать `.env.local`:
+### 2. Установка 
+`npm install`
+### 3. Создать 
+`.env.local`:
